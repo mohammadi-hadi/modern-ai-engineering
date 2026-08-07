@@ -1,6 +1,7 @@
 # Modern AI Engineering
 
 [![Links](https://github.com/mohammadi-hadi/modern-ai-engineering/actions/workflows/links.yml/badge.svg)](https://github.com/mohammadi-hadi/modern-ai-engineering/actions/workflows/links.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Field notes on building production LLM systems, written to teach. Six chapters cover the stack I use daily — from calling models well to serving them cheaply — with the trade-offs stated plainly and the failure modes named.
 

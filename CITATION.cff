@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If these notes are useful in your work, please cite them as below."
+title: "Modern AI Engineering"
+type: software
+authors:
+  - family-names: Mohammadi
+    given-names: Hadi
+    orcid: "https://orcid.org/0000-0003-0860-9200"
+    affiliation: "Utrecht University"
+license: MIT
+repository-code: "https://github.com/mohammadi-hadi/modern-ai-engineering"
+abstract: "Field notes on building production LLM systems: structured outputs, RAG, agents and MCP, LoRA/DPO/GRPO fine-tuning, LLM-as-judge evaluation, and serving with vLLM."

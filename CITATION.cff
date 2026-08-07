@@ -7,6 +7,11 @@ authors:
     given-names: Hadi
     orcid: "https://orcid.org/0000-0003-0860-9200"
     affiliation: "Utrecht University"
+doi: 10.5281/zenodo.21837425
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21837424
+    description: "DOI for all versions; resolves to the latest release"
 license: MIT
 repository-code: "https://github.com/mohammadi-hadi/modern-ai-engineering"
 abstract: "Field notes on building production LLM systems: structured outputs, RAG, agents and MCP, LoRA/DPO/GRPO fine-tuning, LLM-as-judge evaluation, and serving with vLLM."

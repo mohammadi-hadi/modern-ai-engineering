@@ -1,6 +1,7 @@
 # Modern AI Engineering
 
 [![Links](https://github.com/mohammadi-hadi/modern-ai-engineering/actions/workflows/links.yml/badge.svg)](https://github.com/mohammadi-hadi/modern-ai-engineering/actions/workflows/links.yml)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21837424.svg)](https://doi.org/10.5281/zenodo.21837424)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Field notes on building production LLM systems, written to teach. Six chapters cover the stack I use daily — from calling models well to serving them cheaply — with the trade-offs stated plainly and the failure modes named.
@@ -40,10 +41,12 @@ If these notes are useful in your work, please cite it (see [CITATION.cff](CITAT
 
 ```bibtex
 @misc{mohammadi_modern_ai_engineering,
-  author = {Mohammadi, Hadi},
-  title  = {Modern AI Engineering},
-  year   = {2026},
-  url    = {https://github.com/mohammadi-hadi/modern-ai-engineering}
+  author    = {Mohammadi, Hadi},
+  title     = {Modern AI Engineering},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.21837424},
+  url       = {https://github.com/mohammadi-hadi/modern-ai-engineering}
 }
 ```
 

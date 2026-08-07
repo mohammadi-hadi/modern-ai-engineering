@@ -34,6 +34,19 @@ Code snippets are Python, kept minimal on purpose: they show the shape of a corr
 
 [Hadi Mohammadi](https://mohammadi.cv) — Senior AI & Data Science Expert, PhD in Explainable NLP (Utrecht University). Related: [awesome-explainable-nlp](https://github.com/mohammadi-hadi/awesome-explainable-nlp), [spark-search-ranking](https://github.com/mohammadi-hadi/spark-search-ranking), [EvalMORAAL](https://github.com/mohammadi-hadi/EvalMORAAL).
 
+## Citation
+
+If these notes are useful in your work, please cite it (see [CITATION.cff](CITATION.cff)):
+
+```bibtex
+@misc{mohammadi_modern_ai_engineering,
+  author = {Mohammadi, Hadi},
+  title  = {Modern AI Engineering},
+  year   = {2026},
+  url    = {https://github.com/mohammadi-hadi/modern-ai-engineering}
+}
+```
+
 ## License
 
 MIT — see [LICENSE](LICENSE).

@@ -10,3 +10,5 @@ authors:
 license: MIT
 repository-code: "https://github.com/mohammadi-hadi/modern-ai-engineering"
 abstract: "Field notes on building production LLM systems: structured outputs, RAG, agents and MCP, LoRA/DPO/GRPO fine-tuning, LLM-as-judge evaluation, and serving with vLLM."
+version: 1.1.0
+date-released: "2026-08-07"

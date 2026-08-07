@@ -1,0 +1,21 @@
+{
+  "title": "Modern AI Engineering",
+  "description": "Field notes on building production LLM systems: structured outputs, RAG, agents and MCP, LoRA/DPO/GRPO fine-tuning, LLM-as-judge evaluation, and serving with vLLM.",
+  "creators": [
+    {
+      "name": "Mohammadi, Hadi",
+      "orcid": "0000-0003-0860-9200",
+      "affiliation": "Utrecht University"
+    }
+  ],
+  "license": "mit",
+  "upload_type": "lesson",
+  "keywords": [
+    "large language models",
+    "RAG",
+    "agents",
+    "fine-tuning",
+    "LLM-as-judge",
+    "MLOps"
+  ]
+}

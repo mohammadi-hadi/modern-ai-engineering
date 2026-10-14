@@ -39,7 +39,7 @@ Code snippets are Python, kept minimal on purpose: they show the shape of a corr
 
 ## Author
 
-[Hadi Mohammadi](https://mohammadi.cv) — Senior AI & Data Science Expert, PhD in Explainable NLP (Utrecht University). Related: [awesome-explainable-nlp](https://github.com/mohammadi-hadi/awesome-explainable-nlp), [spark-search-ranking](https://github.com/mohammadi-hadi/spark-search-ranking), [EvalMORAAL](https://github.com/mohammadi-hadi/EvalMORAAL).
+[Hadi Mohammadi](https://mohammadi.cv) — Senior AI & Data Science Expert and R&D Specialist, PhD in Explainable NLP (Utrecht University). Related: [awesome-explainable-nlp](https://github.com/mohammadi-hadi/awesome-explainable-nlp), [spark-search-ranking](https://github.com/mohammadi-hadi/spark-search-ranking), [EvalMORAAL](https://github.com/mohammadi-hadi/EvalMORAAL).
 
 ## Citation
 

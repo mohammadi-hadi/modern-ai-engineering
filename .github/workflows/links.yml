@@ -10,6 +10,7 @@ on:
 
 permissions:
   contents: read
+  actions: write
 
 jobs:
   linkcheck:
@@ -21,3 +22,10 @@ jobs:
         with:
           args: --no-progress --max-retries 3 --accept "200..204,206,403,429" README.md chapters/
           fail: true
+      # GitHub disables scheduled workflows after 60 days without repository
+      # activity; re-enabling on every run keeps the schedule alive.
+      - name: Keep the scheduled workflow enabled
+        if: always() && github.event_name != 'pull_request'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X PUT repos/${{ github.repository }}/actions/workflows/links.yml/enable
